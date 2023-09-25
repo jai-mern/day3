@@ -1,0 +1,11 @@
+var arr=[{"name":"jaihind",
+"age":"5"},
+{ 
+"name":"jayakanth"
+"age":"10"}];
+
+console.log(arr[0].name);  output;jaihind
+console.log(arr[0].age);  output; 5
+  
+console.log(arr[1].name);  output;jayakanth
+console.log(arr[1].name);  out put:10
